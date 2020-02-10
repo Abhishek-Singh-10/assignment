@@ -1,0 +1,25 @@
+td{
+    border: 0.1em solid black;
+    border-collapse:collapse;
+}
+
+td{
+    padding:0.2em;
+    text-align:center;
+    width:18%;
+    padding-top:3em;
+    padding-bottom:3em;
+    
+}
+.s{
+   
+    padding:0.2em;
+    text-align:center;
+    width:10%; 
+}
+table{
+    background-color: Azure;
+    
+}
+
+

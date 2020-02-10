@@ -1,0 +1,83 @@
+
+h1{
+    text-align:center;
+
+}
+.per{
+    height:35%;
+    
+    background-color: Azure;
+   margin-bottom:4%;
+    margin-top:8%;
+    box-sizing: border-box;
+    border:0.1em solid gray;
+}
+.per2{
+    height:30%;
+    background-color: Azure;
+    box-sizing: border-box;
+    border:0.1em solid gray;
+    
+}
+
+
+ul{
+    list-style-type: none;
+}
+.pie{
+    
+    margin-top:8%;
+    height:10%;
+    box-sizing: border-box;
+    border:0.1em solid  gray;
+    
+}
+.pie{
+    background-color: Azure;
+}
+
+
+table{
+    margin-top:8%;
+}
+table,th{
+    border:0.1em solid black;
+    border-collapse:collapse;
+}
+
+th{
+    padding:0.2em;
+    text-align:center;
+    width:18%;
+    padding-top:3em;
+    padding-bottom:3em;
+}
+.r{
+    padding:0.2em;
+    text-align:center;
+    width:10%;
+}
+tr{
+    width:16.6%;
+}
+h1{
+    padding-top:1.2em;
+}
+
+
+ul{
+    padding-top:3.9em;  
+}
+
+li{
+    text-align:center;
+}
+
+table{
+    background-color: Azure;
+    
+}
+.c{
+    margin-bottom:1em;
+    
+}
